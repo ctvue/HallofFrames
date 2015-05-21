@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PictureCollectionViewCell.h
 //  HallofFramesUpdate
 //
 //  Created by Chee Vue on 5/20/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PictureCollectionViewCell : UITableViewCell
 
 @end
-
